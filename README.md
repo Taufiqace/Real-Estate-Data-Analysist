@@ -24,12 +24,19 @@ Accurate property valuation is essential in the real estate industry for informe
 
 ## Overview <a name = "Overview"></a>
 
-Over the years, various factors have influenced the resale prices of apartments, including flat size, remaining lease, location, and storey range. These factors, along with market trends, evolve over time, driven by elements such as economic growth, the introduction of new amenities, or improved transportation options like new MRT lines.
+Over the years, various factors have influenced the resale prices of apartments, including flat size, remaining lease, location, and storey range. These factors, along with market trends, evolve over time, driven by elements such as economic growth, the introduction of new amenities, or improved transportation options like new MRT lines. Below, we can see that 
 
 
-![image](https://github.com/user-attachments/assets/6136640f-604f-43d0-96ae-37826fc620e0)
+![Real Estate Overview](https://github.com/user-attachments/assets/28b06b60-dfe9-4b02-8f33-add59b4b2029)
+![Insight](https://github.com/user-attachments/assets/01ca742b-da80-4d1a-9d58-08cab955f090)
 
-## Second
+
+## Insight
+
+Start
+
+
+
 
 
 We add such **product categories** through the main dataframe, such that each **Customer** got a defined **Category**
