@@ -7,7 +7,7 @@ Accurate property valuation is essential in the real estate industry for informe
 - [Overview](#Overview)
 - [Storey range & Flat type](#storey-range-&-flat-type)
 - [Town location](#town-location)
-- [First home owners grant - Lauren Prins](#First_home)
+- [Resale price trend & lease impact](#Resale-price-trend-&-lease-impact)
 - [Conclusion](#Conclusion)
 - [Limitations of the study/ Difficulties experienced](#Limitations)
 - [If we had more time](#more_time)
@@ -24,7 +24,7 @@ Accurate property valuation is essential in the real estate industry for informe
 
 ## Overview <a name ="Overview"></a>
 
-Over the years, various factors have influenced the resale prices of apartments, including flat size, remaining lease, location, and storey range. These factors, along with market trends, evolve over time, driven by elements such as economic growth, the introduction of new amenities, or improved transportation options like new MRT lines. We will dive deeper into each points explaining how each factors affects the pricing.
+Over the years, various factors have influenced the resale prices of apartments, including flat size, remaining lease, location, and storey range. These factors, along with market trends, evolve over time, driven by elements such as economic growth, the introduction of new amenities, or improved transportation options like new MRT lines. Using data from 2015 to 2019, we will dive deeper into each points explaining how each factors affects the resale pricing.
 
 
 ![Real Estate Overview](https://github.com/user-attachments/assets/28b06b60-dfe9-4b02-8f33-add59b4b2029)
@@ -51,5 +51,17 @@ This visual data shows a variation in the housing resale market across different
 The bar chart highlights the total resale prices by town, with Sengkang, Tampines, and Jurong West showing the highest total resale values. This suggests that these towns have a higher volume of transactions, even though their average resale prices are not the highest. On the other hand, towns like Bukit Timah, Marine Parade, and Central Area have the lowest total resale prices, indicating fewer transactions. 
 
 Overall, the data suggests that while some towns have higher average resale prices, the majority of the market activity is concentrated in areas with mid-range prices, reflecting a diverse housing market with different levels of demand and property values across Singapore.
+
+## <a name ="Resale-price-trend-&-lease-impact"></a>Resale price trend & lease impact 
+
+![Over the years](https://github.com/user-attachments/assets/1046f006-2f09-469a-9c48-10e35e010a82)
+
+This charts provide a comprehensive view of the resale property market trends. The total resale prices have generally increased over this period, despite some fluctuations. A noticeable rise occurred in 2016 and 2017, followed by a slight dip in 2018 and then a sharp increase in 2019, indicating a growing market in terms of total value.
+
+In contrast, the average resale price has remained relatively stable, with only minor fluctuations. There was a slight increase in 2018, but this was followed by a decrease in 2019. This suggests that while more properties may have been sold, or higher-value properties contributed to the total increase, the average price has not seen a significant long-term rise.
+
+The relationship between resale price and remaining lease years reveals that properties with around 50 remaining lease years tend to have the highest average resale prices. Properties with significantly fewer lease years are less valuable, while those with too many remaining years also see a dip in average price, possibly due to a different buyer perception or market demand dynamics. 
+
+Overall, the market shows resilience and growth in total value, while the average price remain stable and its relationship with lease years shows that longer lease is prefered.
 
 
