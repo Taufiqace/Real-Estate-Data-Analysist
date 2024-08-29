@@ -3,12 +3,14 @@
 
 Accurate property valuation is essential in the real estate industry for informed decision-making. Property owners, investors, and professionals depend on precise valuation estimates to determine fair market prices, negotiate deals, and evaluate investment opportunities.
 
-![Real Estate Overview](https://github.com/user-attachments/assets/28b06b60-dfe9-4b02-8f33-add59b4b2029)
+![Real Estate Overview](https://github.com/user-attachments/assets/7ac16d93-787c-4aaf-824e-78c614a7e44c)
+
 
 
 Over the years, various factors have influenced the resale prices of apartments, including flat size, remaining lease, location, and storey range. These factors, along with market trends, evolve over time, driven by elements such as economic growth, the introduction of new amenities, or improved transportation options like new MRT lines. Using data from 2015 to 2019, we will dive deeper into each points explaining how each factors affects the resale pricing.
 
-![Insight](https://github.com/user-attachments/assets/3dc2b6ac-17cb-4117-9681-ec235e7beac0)
+![Comparison](https://github.com/user-attachments/assets/e7032a6f-563d-47de-966c-752f1e6ad741)
+
 
 ## Table of Contents
 - [Data Description](#data-description)
@@ -37,7 +39,8 @@ Over the years, various factors have influenced the resale prices of apartments,
 
 This chart shows that the average resale price and floor area of flats vary based on storey range and flat type. Flats located in the mid-storey ranges tend to have higher resale prices, with 5-room, executive, and multi-generation flats being the most valuable. The average floor area of flats tends to be larger in the mid-storey ranges and decreases in the higher storeys. Overall, mid-storey flats, particularly those with more rooms, are more desirable due to their combination of higher resale values and larger living spaces.
 
-![storey range 2](https://github.com/user-attachments/assets/93ceb1e9-b407-4a03-963f-b8dcaab90015)
+![storey range 2](https://github.com/user-attachments/assets/fbcfe626-d074-4ff9-8629-304393cd1f89)
+
 
 The chart on the left indicates that multi-generation flats have the highest average resale prices, followed by executive and 5-room flats, with 1-room flats having the lowest resale prices, supporting the previous chart. In contrast, the chart on the right reveals that 4-room flats make up 40% of the total resale market, while multi-generation flats account for less than 1%, and executive flats represent only 11%. This suggests that the market is more concentrated in the mid-price range, with a higher volume of sales occurring for 4-room flats.
 
