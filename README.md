@@ -3,13 +3,11 @@
 
 Accurate property valuation is essential in the real estate industry for informed decision-making. Property owners, investors, and professionals depend on precise valuation estimates to determine fair market prices, negotiate deals, and evaluate investment opportunities.
 
-![Real Estate Overview](https://github.com/user-attachments/assets/7ac16d93-787c-4aaf-824e-78c614a7e44c)
-
-
+![OP](https://github.com/user-attachments/assets/2b49d98a-8554-42cb-94c7-1386bc2fa350)
 
 Over the years, various factors have influenced the resale prices of apartments, including flat size, remaining lease, location, and storey range. These factors, along with market trends, evolve over time, driven by elements such as economic growth, the introduction of new amenities, or improved transportation options like new MRT lines. Using data from 2015 to 2019, we will dive deeper into each points explaining how each factors affects the resale pricing.
 
-![Comparison](https://github.com/user-attachments/assets/e7032a6f-563d-47de-966c-752f1e6ad741)
+![Dashboard2](https://github.com/user-attachments/assets/f88b999c-a208-41f2-9d51-2afe44274d5c)
 
 
 ## Table of Contents
@@ -35,18 +33,17 @@ Over the years, various factors have influenced the resale prices of apartments,
 
 ## <a name ="storey-range-&-flat-type"></a>Storey range & Flat type 
 
-![storey range 1](https://github.com/user-attachments/assets/d5d8f88e-56af-491a-9ef7-3220b20ba80d)
+![storey range 1](https://github.com/user-attachments/assets/ccb22f43-595f-42a1-af93-89b5db1ffb99)
 
 This chart shows that the average resale price and floor area of flats vary based on storey range and flat type. Flats located in the mid-storey ranges tend to have higher resale prices, with 5-room, executive, and multi-generation flats being the most valuable. The average floor area of flats tends to be larger in the mid-storey ranges and decreases in the higher storeys. Overall, mid-storey flats, particularly those with more rooms, are more desirable due to their combination of higher resale values and larger living spaces.
 
-![storey range 2](https://github.com/user-attachments/assets/fbcfe626-d074-4ff9-8629-304393cd1f89)
-
+![storey range 2](https://github.com/user-attachments/assets/6c22219e-4994-4452-abc7-6d0a295d7823)
 
 The chart on the left indicates that multi-generation flats have the highest average resale prices, followed by executive and 5-room flats, with 1-room flats having the lowest resale prices, supporting the previous chart. In contrast, the chart on the right reveals that 4-room flats make up 40% of the total resale market, while multi-generation flats account for less than 1%, and executive flats represent only 11%. This suggests that the market is more concentrated in the mid-price range, with a higher volume of sales occurring for 4-room flats.
 
 ## <a name ="town-location"></a>Town location 
 
-![Town](https://github.com/user-attachments/assets/d56b1b38-407c-437f-b393-6d5ac649d01e)
+![Town](https://github.com/user-attachments/assets/3840e661-c8e4-48b7-84fb-75537b8c2a5d)
 
 This visual data shows a variation in the housing resale market across different towns. The map shows the average resale price for flats in each town, represented by bubble sizes. Towns such as Bukit Merah, Queenstown, and Bishan have larger bubbles, indicating higher average resale prices, while towns like Jurong West, Sengkang, and Yishun have smaller bubbles, signifying lower average resale prices.
 
@@ -56,7 +53,7 @@ Overall, the data suggests that while some towns have higher average resale pric
 
 ## <a name ="Resale-price-trend-&-lease-impact"></a>Resale price trend & lease impact 
 
-![Over the years](https://github.com/user-attachments/assets/1046f006-2f09-469a-9c48-10e35e010a82)
+![Over the years](https://github.com/user-attachments/assets/574402c8-d3a2-4554-b36a-ffd4211d2e4c)
 
 This charts provide a comprehensive view of the resale property market trends. The total resale prices have generally increased over this period, despite some fluctuations. A noticeable rise occurred in 2016 and 2017, followed by a slight dip in 2018 and then a sharp increase in 2019, indicating a growing market in terms of total value.
 
@@ -72,19 +69,19 @@ The key influencer graph highlights factors that significantly impact the averag
 
 ### Flat model
 
-![Key Influence 1](https://github.com/user-attachments/assets/be277753-0af2-4a6c-af2e-4d305dad40a4)
+![Key Influence 1](https://github.com/user-attachments/assets/39f05b39-6958-4d47-8179-4b5d61bc4512)
 
 The bar chart provides a comparative analysis of different flat models, illustrating that "Type S1" flats significantly exceed the average resale price of other flat models, followed by "Type S2". This suggests that flat model plays a significant role in determining property values in the resale market.
 
 ### Storey range
 
-![Key Influence 2](https://github.com/user-attachments/assets/325170c0-aa2b-4a9b-bed5-38b51f8e55a6)
+![Key Influence 2](https://github.com/user-attachments/assets/bc7a176b-b451-47ab-908b-52490827e2db)
 
 This bar chart shows that average resale price increases significantly when the "storey_range" is between 37 and 39 compared to other ranges, and prices gradually increase going up the range. This indicates that as the storey level goes higher, the average price of resale is more likely to increase. Despite lower floors having larger area and more rooms as shown in [Storey range & Flat type](#storey-range-&-flat-type) , the average price seems to be lower like due to smaller percentage of it being the larger apartments as such it is overshadowed.
 
 ### Flat type
 
-![Key Influence 3](https://github.com/user-attachments/assets/4535af0c-bc8e-4a0e-9ae2-4b74322afeb5)
+![Key Influence 3](https://github.com/user-attachments/assets/67680d6d-60d9-4fe9-942e-710e6dc51744)
 
 The provided chart reveals that the primary factor influencing a decrease in average resale prices is the "flat_type", specifically 2-room units. These units exhibit a significant price reduction, nearly halving the average price compared to larger units. While other factors such as "flat_model" and "Year" are also relevant, their impact on resale prices is less pronounced.
 
@@ -92,10 +89,10 @@ The provided chart reveals that the primary factor influencing a decrease in ave
 
 Top Segments in the Key Influencers visual identifies and displays the most significant subgroups or categories that drive a particular outcome or metric. For this data, all top 5 segments points to floor_area_sqm. 
 
-![Top Segment](https://github.com/user-attachments/assets/296747e2-b6dd-454e-aaab-a427b6e738f4)
-![Top Segment 0](https://github.com/user-attachments/assets/76c19021-7387-431b-816f-dff207a9f04c)
-![Top Segment 1](https://github.com/user-attachments/assets/8fa1da23-20cc-49a0-9309-49e91e90ac32)
-![Top Segment 2](https://github.com/user-attachments/assets/575a3d4d-9078-4d05-9aed-581c035dacc5)
+![Top Segment](https://github.com/user-attachments/assets/9452f1fc-c328-46e0-9de3-40de6884d01c)
+![Top Segment 0](https://github.com/user-attachments/assets/a5f7fd95-7319-4b33-8127-48e05004fa3b)
+![Top Segment 1](https://github.com/user-attachments/assets/dd859eac-27dc-4c6f-8cd6-f6838f38ada5)
+![Top Segment 2](https://github.com/user-attachments/assets/5ccca376-3472-42e5-b925-ca157f4eab0e)
 
 The Top segments reveals that larger floor areas and certain construction years are significant factors influencing higher resale prices. Properties with larger floor areas (especially above 137 sqm) consistently show the highest average resale prices. Additionally, properties built in the early 2000s, or before 1991, also tend to have higher resale prices, likely due to a combination of space and other property characteristics. Overall, the visual effectively demonstrates that both size and age are key determinants in the resale property market, helping identify which segments are most likely to yield a premium price.
 
